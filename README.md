@@ -1,2 +1,5 @@
-# com229_midterm_301082190
-Web application development  - Midterm for Winter semester 2021
+# COMP229-W2021-MidTerm Test
+
+## Welcome to the MidTerm Project - the Favourite Book List App
+
+please use **`npm install`** to install project dependencies
