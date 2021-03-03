@@ -1,3 +1,12 @@
+/*--------------------------------------------------------------
+# app.js
+# Marco Mejia
+# 301082190
+# 03 Mar 2021
+
+Midterm test web application
+----------------------------------------------------------------*/
+
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');

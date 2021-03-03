@@ -1,3 +1,12 @@
+/*--------------------------------------------------------------
+# db.js
+# Marco Mejia
+# 301082190
+# 03 Mar 2021
+
+Midterm test web application
+----------------------------------------------------------------*/
+
 module.exports = {
   //local MongoDB deployment ->
   //"URI": "mongodb://localhost/books229"

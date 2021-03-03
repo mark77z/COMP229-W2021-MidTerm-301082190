@@ -1,3 +1,12 @@
+/*--------------------------------------------------------------
+# app.js
+# Marco Mejia
+# 301082190
+# 03 Mar 2021
+
+Midterm test web application
+----------------------------------------------------------------*/
+
 /* custom JS goes here */
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */

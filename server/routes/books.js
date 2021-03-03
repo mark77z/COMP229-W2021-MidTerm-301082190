@@ -1,3 +1,12 @@
+/*--------------------------------------------------------------
+# book.js
+# Marco Mejia
+# 301082190
+# 03 Mar 2021
+
+Midterm test web application
+----------------------------------------------------------------*/
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();

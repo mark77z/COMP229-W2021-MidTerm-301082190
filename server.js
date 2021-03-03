@@ -1,3 +1,12 @@
+/*--------------------------------------------------------------
+# server.js
+# Marco Mejia
+# 301082190
+# 03 Mar 2021
+
+Midterm test web application
+---------------------------------------------------------------*/
+
 let app = require('./server/config/app');
 let debug = require('debug')('comp229-w2021-midterm:server');
 let http = require('http');
